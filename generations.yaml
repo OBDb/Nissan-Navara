@@ -1,0 +1,79 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_Navara"
+
+generations:
+  - name: "D21 Series"
+    start_year: 1985
+    end_year: 1997
+    description: "First generation compact pickup truck, successor to the Datsun 720. Available worldwide in two body styles - 'A' body designed in Japan and 'S' body King Cab designed in the United States. The name 'Navara' was used in some markets such as Australia and New Zealand."
+    platform_code: "D21"
+    body_styles:
+      - 2-door pickup truck
+      - 4-door pickup truck
+
+  - name: "First Generation (D22)"
+    start_year: 1997
+    end_year: 2004
+    description: "Compact size pickup truck. Originally planned to be designed by Nissan Design International in California, but design was given to Japan during 1994-1995 period. In North America, it was marketed as the Nissan Frontier."
+    platform_code: "D22"
+    body_styles:
+      - 2-door regular cab
+      - 4-door King Cab
+      - 4-door Crew Cab
+
+  - name: "First Generation (D22 Facelift)"
+    start_year: 2004
+    end_year: 2015
+    description: "Facelifted D22 introduced in February 2000 at the Chicago Auto Show. Featured bolder styling with new grille, bumper, headlights, taillights, and built-in fender flares. The regular cab was discontinued after 2001 MY. In Australia, Series 2 released in 2001 with ZD30 Diesel engine and updated front end."
+    platform_code: "D22"
+    body_styles:
+      - 4-door King Cab
+      - 4-door Crew Cab
+
+  - name: "Second Generation (D40)"
+    start_year: 2005
+    end_year: 2014
+    description: "Mid-size pickup truck introduced at the 2004 North American International Auto Show. Uses the new Nissan F-Alpha platform with fully boxed ladder frame. Exterior styling resembles the full-size Nissan Titan. In North America marketed as Frontier, elsewhere as Navarra."
+    platform_code: "D40"
+    body_styles:
+      - 2-door pickup truck
+      - 4-door Crew Cab
+    engine_options:
+      - "4.0L VQ40DE V6"
+      - "2.5L QR25DE I4"
+      - "2.5L YD25DDTi diesel"
+
+  - name: "Second Generation (D40 Facelift)"
+    start_year: 2015
+    end_year: 2021
+    description: "Facelifted D40 introduced for 2009/2010 model years. Added new 3.0L V9X V6 turbodiesel engine and revised 2.5L dCi unit. Updated headlights, bonnet, V-shaped grille shell, rounder bumper, new alloy wheels, and improved interior materials. In North America, updated for 2020 MY with new 3.8L V6 and nine-speed automatic."
+    platform_code: "D40"
+    body_styles:
+      - 2-door pickup truck
+      - 4-door Crew Cab
+
+  - name: "Third Generation (D23)"
+    start_year: 2014
+    end_year: 2020
+    description: "Third generation Navarra, codenamed D23 and released as NP300 Navarra. Series production commenced in Thailand in July 2014. Not available in US or Canada (favoring the larger D41 Frontier). Features Nissan Intelligent Mobility technology including Around View Monitor and blind-spot monitoring."
+    platform_code: "D23"
+    body_styles:
+      - 4-door pickup truck
+    engine_options:
+      - "2.3L diesel"
+
+  - name: "Third Generation (D23 Facelift)"
+    start_year: 2021
+    end_year: null
+    description: "Facelifted D23 Navarra unveiled on November 5, 2020, with introduction of Pro-4X trim level. Active safety equipment added including additional airbags and stability control. Pre-facelift model production in Barcelona continued until December 16, 2021 due to declining European sales."
+    platform_code: "D23"
+    body_styles:
+      - 4-door pickup truck
+
+  - name: "Fourth Generation (D27)"
+    start_year: 2025
+    end_year: null
+    description: "Fourth generation Navarra unveiled in Australia and New Zealand on November 19, 2024. Developed from the sixth-generation Mitsubishi Triton platform and manufactured by Mitsubishi Motors."
+    platform_code: "D27"
+    body_styles:
+      - 4-door pickup truck
